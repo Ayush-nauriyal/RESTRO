@@ -1,0 +1,15 @@
+.row{
+    display: flea;
+    align-items: center;
+    justify-content: center;
+}
+.title::before{
+    content: ""; 
+    background:url('../photos/p.jpg')no-repeat center center/cover;
+    height: 34vw;
+   width: 100%;
+   z-indea:-1;
+   opacity:60%;
+   position: absolute;
+ 
+}
